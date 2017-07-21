@@ -1,2 +1,2 @@
 # Udacity_Data_Analyst
-Data Analyst Nanodegree Projects
+Data Analyst Nanodegree Notes and Projects
